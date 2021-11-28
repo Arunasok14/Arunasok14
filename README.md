@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Arunasok14
+- 👀 I’m interested in Investing, Trading
+- 🌱 I’m currently learning R and Python
+- 💞️ I’m looking to collaborate on using code for stock market analysis
+- 📫 How to reach me https://www.linkedin.com/in/arun-asok-708a4b169
